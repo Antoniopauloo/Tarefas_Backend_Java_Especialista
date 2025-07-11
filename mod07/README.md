@@ -1,6 +1,6 @@
 # Módulo 07 – DevOps: CI/CD com Microsserviços
 
-**Aluno:** Antonio Paulo Camarda dos Santos
+**Aluno:** Antonio Paulo Camarda dos Santos <br>
 **Curso:** Backend Java Especialista - EBAC
 
 ---
